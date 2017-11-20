@@ -3,4 +3,6 @@ This Alexa Skill uses web scraping to curate StackOverflow Answers about code an
 <br>
 ### Invocation 
 "Alexa, ask CodeFetch to fetch 'Binomial Theorem' in 'C++' "
+<br>
+You can play like this for any algorithm and language. As long as StackOverflow has it, we have it.
 
